@@ -25,16 +25,16 @@ PS APP Deploy Toolkit will Install or Update DCU, use the builtin DCU command li
         * Installs/Updates DCU and applies all types of avaliable updates
        
     * Deploy-Application.exe -UpdateType Bios 
-        *(Installs/Updates DCU and only applies avaliable BIOS updates)
+        * Installs/Updates DCU and only applies avaliable BIOS updates
         
     * Deploy-Application.exe -UpdateType Display
-        *(Installs/Updates DCU and only applies avaliable Video Driver updates)
+        * Installs/Updates DCU and only applies avaliable Video Driver updates
         
     * Deploy-Application.exe -UpdateType Network
-        *(Installs/Updates DCU and only applies avaliable Network Driver updates)
+        * Installs/Updates DCU and only applies avaliable Network Driver updates
        
     * Deploy-Application.exe -UpdateType Drivers
-        *(Installs/Updates DCU and only applies avaliable Driver updates) (I.e. doesn't install BIOS and/or Firmware updates)
+        * Installs/Updates DCU and only applies avaliable Driver updates (I.e. doesn't install BIOS and/or Firmware updates)
 
  * Included Detect_App.ps1 file is for SCCM/MECM Application Deployment Script Detection Method (Checks installed DCU version and Driver Update log). 
  
