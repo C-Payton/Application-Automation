@@ -13,6 +13,8 @@ PS APP Deploy Toolkit will Install or Update DCU, use the builtin DCU command li
 
 ### Dependencies
 * PS APP Deploy Toolkit (PSADTK) (Built using version 3.8.4)
+* Windows 10 OS
+* Windows PowerShell 5.0+
 * Dell Computer (Supported Models: OptiPlex, Latitude, Venue, XPS, Precision) 
 * Latest Dell Command | Update (Using Windows 32 and 64bit version for Microsoft Windows 8.1 and 10) (Not the UWP version)
       * https://www.dell.com/support/kbdoc/en-us/000177325/dell-command-update
