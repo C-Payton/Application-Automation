@@ -16,7 +16,7 @@ This will use the DCU command line to scan the computer, check for updates using
 * Dell Computer (Models OptiPlex, Latitude, Venue, XPS, Precision)
 * Latest Dell Command | Update (Using Windows 32 and 64bit version for Microsoft Windows 8.1 and 10) (Not the UWP version)
       * https://www.dell.com/support/kbdoc/en-us/000177325/dell-command-update
-* SCCM/MECM (I.e. For user self-service application install or for application/package deployment)
+* SCCM/MECM (I.e. For user self-service application install or application/package deployment)
 
 ### How to use this code
 * Run Directly "  Deploy-Application.exe  " (This will install DCU, scan and install all types of avaliable updates)
