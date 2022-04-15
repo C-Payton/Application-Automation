@@ -1,4 +1,4 @@
-# Dell Command | Update - SCCM / MECM Deploy
+# Dell Command | Update (v4.5) - SCCM / MECM Deploy
 
 The Dell Command | Update (DCU) toolkit is an application for updating BIOS, firmware, driver, and Dell application updates. 
 The toolkit automatically checks Dell model and applies only drives applicable to the device. 
@@ -12,7 +12,7 @@ PS APP Deploy Toolkit will Install or Update DCU, use the builtin DCU command li
 * Push drivers out using SCCM/MECM and not having to maintain driver update/patch repositories for all Dell models.
 
 ### Dependencies
-* PS APP Deploy Toolkit (PSADTK)
+* PS APP Deploy Toolkit (PSADTK) (Built using version 3.8.4)
 * Dell Computer (Supported Models: OptiPlex, Latitude, Venue, XPS, Precision) 
 * Latest Dell Command | Update (Using Windows 32 and 64bit version for Microsoft Windows 8.1 and 10) (Not the UWP version)
       * https://www.dell.com/support/kbdoc/en-us/000177325/dell-command-update
@@ -41,9 +41,12 @@ PS APP Deploy Toolkit will Install or Update DCU, use the builtin DCU command li
 ## Help
 
 NOTE: If you have a BIOS Password, make sure you set the " -biosPassword=`"SecretPassword`" flag with your password.
-Dell server models are NOT supported via Dell Command | Update. 
+
+*Dell server models are NOT supported via Dell Command | Update.  
 
 ## Version History
 
 * 1.0.0 (4/15/2022)
-    * Initial Github Release
+    * Initial Github Release 
+    * PSAppDeployToolkit v3.8.4 (Jan 26, 2021)
+    * Dell Command | Update 4.5 (March 2022)
