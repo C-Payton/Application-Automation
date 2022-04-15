@@ -44,7 +44,7 @@ PS APP Deploy Toolkit will Install or Update DCU, use the builtin DCU command li
 
 NOTE: If you have a BIOS Password, make sure you set the " -biosPassword=`"SecretPassword`" flag with your password.
 
-*Dell server models are NOT supported via Dell Command | Update.  
+* Dell server models are NOT supported via Dell Command | Update.  
 
 ## Version History
 
