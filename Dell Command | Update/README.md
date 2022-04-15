@@ -4,7 +4,7 @@ The Dell Command | Update (DCU) toolkit is an application for updating BIOS, fir
 The toolkit automatically checks Dell model and applies only drives applicable to the device. 
 This is packaged with PS APP DEPLOY toolkit for easy installation (SCCM/MECM Task Sequence, Software Center, Application Deployment, and Package Deployment.)
 
-This will use the DCU command line to scan the computer, check for updates using Dell's servers, and installs drives applicable to the device.  
+This will use the DCU command line to scan the computer, check for updates using Dell's servers, and installs drivers applicable to the device.  
 
 ## Some use cases:
 * Allows users to install the latest Dell drivers outside of regular driver patching window (when deployed via Software Center). 
