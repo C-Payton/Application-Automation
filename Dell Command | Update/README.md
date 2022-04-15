@@ -18,6 +18,7 @@ PS APP Deploy Toolkit will Install or Update DCU, use the builtin DCU command li
 * Dell Computer (Supported Models: OptiPlex, Latitude, Venue, XPS, Precision) 
 * Latest Dell Command | Update (Using Windows 32 and 64bit version for Microsoft Windows 8.1 and 10) (Not the UWP version)
       * https://www.dell.com/support/kbdoc/en-us/000177325/dell-command-update
+      * https://dl.dell.com/content/manual13608255-dell-command-update-version-4-x-reference-guide.pdf
 * SCCM/MECM (I.e. For user self-service application install or application/package deployment)
 
 ### How to use this code
