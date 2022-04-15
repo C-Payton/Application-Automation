@@ -22,7 +22,7 @@ PS APP Deploy Toolkit will Install or Update DCU, use the builtin DCU command li
 * Run Directly "  Deploy-Application.exe  " (This will install DCU, scan and install all types of avaliable updates)
 * Create SCCM Application or Package (You can use the following flags to install specific types of BIOS, Driver, etc.)
     * Deploy-Application.exe
-        *(Installs/Updates DCU and applies all types of avaliable updates)
+        * Installs/Updates DCU and applies all types of avaliable updates
        
     * Deploy-Application.exe -UpdateType Bios 
         *(Installs/Updates DCU and only applies avaliable BIOS updates)
