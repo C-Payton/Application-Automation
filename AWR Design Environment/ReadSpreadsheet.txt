@@ -1,0 +1,15 @@
+READ THE SPREADSHEET ON ROOT OF APP VOLUME. 
+
+I will list what software is currently working on there. 
+
+If you install software that looks automated but isn't green on the spreadsheet, you will have problems!!!
+
+Also, I'm not going to support APP deployments that I haven't finished or tested !!! 
+
+so just read the spreadsheet...
+
+
+
+
+
+
