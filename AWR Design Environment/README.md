@@ -40,9 +40,9 @@ NOTE: Make sure you set your FlexLM information for your AWR license server " $a
 
 ## Registry Information 
 
-*FullPath: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3C31E93E-C322-4A9D-BC0D-B1B3809527CD}
-*DisplayName: AWR Design Environment 15 (15.04.10117.2) 64-bit
-*Publisher: Cadence Design Systems, Inc.
-*DisplayVersion: 15.04.10117.2
-*UninstallString: MsiExec.exe /I{3C31E93E-C322-4A9D-BC0D-B1B3809527CD}
-*KeyName: {3C31E93E-C322-4A9D-BC0D-B1B3809527CD}
+* FullPath: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3C31E93E-C322-4A9D-BC0D-B1B3809527CD}
+* DisplayName: AWR Design Environment 15 (15.04.10117.2) 64-bit
+* Publisher: Cadence Design Systems, Inc.
+* DisplayVersion: 15.04.10117.2
+* UninstallString: MsiExec.exe /I{3C31E93E-C322-4A9D-BC0D-B1B3809527CD}
+* KeyName: {3C31E93E-C322-4A9D-BC0D-B1B3809527CD}
