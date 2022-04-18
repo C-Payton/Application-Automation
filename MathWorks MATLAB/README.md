@@ -37,6 +37,7 @@ Package will remove any older version of MATLAB installed. Then install latest M
 ## Help
 
 NOTE: Make sure you set your FlexLM information for your MATLAB license server " $appLicenseInfo = 'port@license.server' ".
+      Also verify fileInstallationKey and activationKey are set in the activate.ini / installer_input.txt files.
 
 ## Version History
 
