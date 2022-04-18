@@ -1,0 +1,23 @@
+-Base Cadence-
+FullPath: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{FFAF5136-3901-43D7-8471-CD154C3545B6}
+DisplayName: Cadence OrCAD and Allegro 17.4-2019
+Publisher: Cadence Design Systems, Inc.
+DisplayVersion: 17.4.0
+UninstallString: "C:\Program Files (x86)\InstallShield Installation Information\{FFAF5136-3901-43D7-8471-CD154C3545B6}\Uninstall.exe" -runfromtemp -l0x0409  Uninstall -removeonly
+KeyName:
+
+-Cadence Patch (17.40.028)-
+FullPath: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{FFAF5136-3901-43D7-8471-CD154C3545B6}
+DisplayName: Cadence OrCAD and Allegro 17.4-2019
+Publisher: Cadence Design Systems, Inc.
+DisplayVersion: 17.40.028
+UninstallString: "C:\Program Files (x86)\InstallShield Installation Information\{FFAF5136-3901-43D7-8471-CD154C3545B6}\Uninstall.exe" -runfromtemp -l0x0409  Uninstall Uninstall -removeonly
+KeyName:
+
+-Cadence Download Manager-
+FullPath: HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{E45FE019-6C06-4FB1-A541-DCF1A88C812F}
+DisplayName: Cadence Download Manager
+Publisher: Cadence Design Systems, Inc.
+DisplayVersion: 17.4.0
+UninstallString: "C:\Program Files (x86)\InstallShield Installation Information\{E45FE019-6C06-4FB1-A541-DCF1A88C812F}\AllegroDownloadManager.exe" -runfromtemp -l0x0409  -removeonly
+KeyName: {E45FE019-6C06-4FB1-A541-DCF1A88C812F}
