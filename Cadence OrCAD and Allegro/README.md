@@ -39,7 +39,7 @@ Package will remove any older version of Cadence OrCAD/Allegro installed. Then i
 
 ## Version History
 
-* 1.0.0 (4/16/2022)
+* 1.0.0 (4/18/2022)
     * Initial Github Release 
     * PSAppDeployToolkit v3.8.4 (Jan 26, 2021)
-    * MATLAB R2022a v9.12
+    * OrCAD and Allegro (SPB174) v17.40.028
