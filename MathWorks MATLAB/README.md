@@ -1,7 +1,7 @@
 # MATLAB R2022a - MathWorks (v9.12)
 
 App Package for MATLAB programming and numeric computing platform. 
-This is packaged with PS APP DEPLOY toolkit for easy installation (Direct Run, SCCM/MECM Task Sequence, Software Center, Application Deployment, and Package Deployment.)
+This is packaged with PS APP DEPLOY toolkit for easy silent installation (Direct Run, SCCM/MECM Task Sequence, Software Center, Application Deployment, and Package Deployment.)
 
 Package will remove any older version of MATLAB installed. Then install latest MATLAB silently, configure, and setup client licensing.   
 
