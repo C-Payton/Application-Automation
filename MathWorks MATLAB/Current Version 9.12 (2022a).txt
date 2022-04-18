@@ -1,0 +1,12 @@
+- Registry - 
+FullPath: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\MATLAB R2022a
+DisplayName: MATLAB R2022a
+Publisher: MathWorks
+DisplayVersion: 9.12
+UninstallString: C:\Program Files\MATLAB\R2022a\uninstall\bin\win64\uninstall.exe C:\Program Files\MATLAB\R2022a
+KeyName: MATLAB R2022a
+
+- Start Menu - 
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\MATLAB R2022a
+
+- Notes - 
