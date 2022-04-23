@@ -1,4 +1,4 @@
-# Application-Automation - Userful Templates
+# Application-Automation - Useful Templates
 Various code templates for application packaging methods I have developed, refined, or found useful. 
 
 ### General Dependencies
