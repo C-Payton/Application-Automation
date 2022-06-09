@@ -1,4 +1,4 @@
-# Python 3.x - Python Software Foundation (v3.10.5)
+# Python 3.x - Python Software Foundation (v1.0.0)
 
 App Package for Python. 
 This is packaged with PS APP DEPLOY toolkit for easy installation (Direct Run, SCCM/MECM Task Sequence, Software Center, Application Deployment, and Package Deployment.)
